@@ -64,5 +64,5 @@ Currently focused on automation, security and cracking tools,  and Telegram bots
 
 <p align="center">
   ⚡ _Code like a machine, think like a hacker_
-              **ENJOY**
+              ## ENJOY
 </p>

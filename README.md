@@ -64,5 +64,6 @@ Currently focused on automation, security and cracking tools,  and Telegram bots
 
 <p align="center">
   ⚡ _Code like a machine, think like a hacker_
-              ## ENJOY
 </p>
+<h1 align="center" style="font-size: 60px; color: #ff0066; text-shadow: 2px 2px #000000;">✨ ENJOY ✨</h1>
+

@@ -30,7 +30,7 @@ Currently focused on automation, security and cracking tools,  and Telegram bots
 | Language  /  Tool | Skill Level |
 |-------------------|-------------|
 | 🐍 Python        | ⭐⭐⭐⭐☆ (Expert) |
-| 🐘 PHP           | ⭐⭐☆☆☆ (Basic) |
+| 🐘 PHP           | ⭐☆☆☆☆ (Basic) |
 | 🤖 Kotlin        | ⭐⭐☆☆☆ (Learning) |
 | 💙 Go            | ⭐⭐⭐⭐☆ (Intermediate) |
 | 🌐 WordPress     | ⭐⭐⭐☆☆ (Intermediate) |

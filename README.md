@@ -4,6 +4,7 @@
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/GoLang-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=wordpress&logoColor=white" />
   <img src="https://img.shields.io/badge/Cracker-%23FF0000.svg?style=for-the-badge&logo=skynet&logoColor=white" />
 </p>
@@ -26,13 +27,14 @@ Currently focused on automation, security and cracking tools,  and Telegram bots
 
 ## 🧰 Tech Stack
 
-| Language / Tool | Skill Level |
-|-----------------|-------------|
+| Language  /  Tool | Skill Level |
+|-------------------|-------------|
 | 🐍 Python        | ⭐⭐⭐⭐☆ (Expert) |
 | 🐘 PHP           | ⭐⭐☆☆☆ (Basic) |
-| 💙 Go            | ⭐⭐⭐⭐☆ (Pro) |
+| 🤖 Kotlin        | ⭐⭐☆☆☆ (Learning) |
+| 💙 Go            | ⭐⭐⭐⭐☆ (Intermediate) |
 | 🌐 WordPress     | ⭐⭐⭐☆☆ (Intermediate) |
-| 🧩 Ana Framework | ⭐⭐☆☆☆ (Familiar) |
+| 🧩 Framework     | ⭐⭐☆☆☆ (Familiar) |
 
 ---
 
@@ -41,7 +43,7 @@ Currently focused on automation, security and cracking tools,  and Telegram bots
 <p align="center">
   <img src="https://img.shields.io/badge/Telegram%20Bots-%2326A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" />
   <img src="https://img.shields.io/badge/Web%20Automation-%23FFAA00.svg?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Password%20Crackers-%23FF0000.svg?style=for-the-badge&logo=protonmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/%20Cracking-%23FF0000.svg?style=for-the-badge&logo=protonmail&logoColor=white" />
   <img src="https://img.shields.io/badge/Networking%20Scripts-%231E90FF.svg?style=for-the-badge&logo=hackthebox&logoColor=white" />
   <img src="https://img.shields.io/badge/Open%20Source-Lover-%2300C896.svg?style=for-the-badge" />
 </p>
@@ -50,7 +52,7 @@ Currently focused on automation, security and cracking tools,  and Telegram bots
 
 ## 📫 Contact
 
-[![Telegram](https://img.shields.io/badge/Telegram-%40raxgi-blue?style=for-the-badge&logo=telegram)](https://t.me/raxgi)
+[![Telegram](https://img.shields.io/badge/Telegram-@Raxgi-blue?style=flat&logo=telegram)](https://t.me/Raxgi)
 
 ---
 
@@ -61,5 +63,6 @@ Currently focused on automation, security and cracking tools,  and Telegram bots
 </p>
 
 <p align="center">
-  ⚡ _Code like a machine, think like a hacker._
+  ⚡ _Code like a machine, think like a hacker_
+              **ENJOY**
 </p>
